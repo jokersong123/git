@@ -1,0 +1,54 @@
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+Desktop.ini
+$RECYCLE.BIN/
+*.exe
+*.dll
+*.sys
+*.msi
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Linux
+.directory
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-*
+*.code-workspace
+.history/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Build
+dist/
+build/
+*.log
+*.tmp
+*.temp
+*.cache/
+
+# Env
+.env
+.env.local
+.env.*.local
